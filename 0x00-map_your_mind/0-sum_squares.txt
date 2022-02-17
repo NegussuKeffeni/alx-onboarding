@@ -1,0 +1,3 @@
+// accept two integer input from the user 
+// square each integer
+// Add squared integer 
