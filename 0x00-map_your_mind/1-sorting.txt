@@ -1,0 +1,4 @@
+// read a number 
+// If push is not three push the number 
+// if push is three stop reading
+// If pus  is three sort
