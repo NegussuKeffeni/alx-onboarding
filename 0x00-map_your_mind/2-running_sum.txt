@@ -1,0 +1,5 @@
+//accept numbers 
+//If the number is postitve
+    //add the number to the previeus
+//Else 
+    //return the SUM up to now
